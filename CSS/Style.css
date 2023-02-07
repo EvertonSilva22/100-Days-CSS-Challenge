@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-    background-color: blue;
+    background-color: white;
 }
 
 h1, h2, h3{
@@ -9,4 +9,10 @@ h1, h2, h3{
     color: white;
     display: block;
     margin-top: 50px;
+}
+section{
+    position: relative;
+    margin: 20px;
+    padding: auto;
+    background-color: blue;
 }
